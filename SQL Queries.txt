@@ -10,7 +10,7 @@ Season	  Player	              Team_Final	Fantasy_Pts_Per_Game
 2024-25	  Nikola Jokic	              DEN	        58.03
 2024-25	  Giannis Antetokounmpo	      MIL	        51.74
 2024-25	  Shai Gilgeous-Alexander     OKC	        47.93
-2024-25	  Victor Wembanyama	      SAS	        47.86
+2024-25	  Victor Wembanyama	          SAS	        47.86
 2024-25	  Anthony Davis	              DAL	        45.67
 
 
@@ -29,19 +29,19 @@ WHERE RulesName = 'ZOOPA RULES'
 ORDER BY STL DESC, G DESC, Player;
 
 Results
-Season	Player	             Team_Final	Games	Steals_per_Game	   Est_Total_Steals	Fantasy_Pts_Per_Game
-2024-25	Herbert Jones	     NOP	20.0	1.90	           38.0	                22.37
-2024-25	Scotty Pippen Jr.    MEM	79.0	1.30	           102.7	        21.41
-2024-25	Andrew Nembhard	     IND	65.0	1.20	           78.0	                21.15
-2024-25	Donte DiVincenzo     MIN	62.0	1.20	           74.4	                21.00
-2024-25	Brandin Podziemski   GSW	64.0	1.10	           70.4	                22.10
-2024-25	Jrue Holiday	     BOS	62.0	1.10	           68.2	                22.14
-2024-25	Quentin Grimes	     PHI	75.0	1.00	           75.0 	        22.61
-2024-25	Naji Marshall	     DAL	69.0	1.00	           69.0	                22.17
-2024-25	Scoot Henderson	     POR	66.0	1.00	           66.0			21.36
-2024-25	D'Angelo Russell     BRK	58.0	1.00	           58.0			21.96
-2024-25	Isaiah Mobley	     PHI	1.0	1.00	           1.0			21.20
-2024-25	Stephon Castle	     SAS	81.0	0.90	           72.9			22.67
-2024-25	Jerami Grant	     POR	47.0	0.90	           42.3			21.67
-2024-25	Ayo Dosunmu	     CHI	46.0	0.90	           41.4			22.57
-2024-25	Khris Middleton	     WAS	37.0	0.90	           33.3			21.33
+Season	    Player	             Team_Final	    Games	Steals_per_Game	   Est_Total_Steals	    Fantasy_Pts_Per_Game
+2024-25	    Herbert Jones	     NOP	        20.0	1.90	           38.0	                22.37
+2024-25	    Scotty Pippen Jr.    MEM	        79.0	1.30	           102.7	            21.41
+2024-25	    Andrew Nembhard	     IND	        65.0	1.20	           78.0	                21.15
+2024-25	    Donte DiVincenzo     MIN	        62.0	1.20	           74.4	                21.00
+2024-25	    Brandin Podziemski   GSW	        64.0	1.10	           70.4	                22.10
+2024-25	    Jrue Holiday	     BOS	        62.0	1.10	           68.2	                22.14
+2024-25	    Quentin Grimes	     PHI	        75.0	1.00	           75.0 	            22.61
+2024-25	    Naji Marshall	     DAL	        69.0	1.00	           69.0	                22.17
+2024-25	    Scoot Henderson	     POR	        66.0	1.00	           66.0			        21.36
+2024-25	    D'Angelo Russell     BRK	        58.0	1.00	           58.0			        21.96
+2024-25	    Isaiah Mobley	     PHI	         1.0	1.00	           1.0			        21.20
+2024-25    	Stephon Castle	     SAS	        81.0	0.90	           72.9			        22.67
+2024-25	    Jerami Grant	     POR	        47.0	0.90	           42.3			        21.67
+2024-25	    Ayo Dosunmu	         CHI	        46.0	0.90	           41.4			        22.57
+2024-25    	Khris Middleton	     WAS	        37.0	0.90	           33.3			        21.33
